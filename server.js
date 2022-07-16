@@ -11,8 +11,8 @@ app.get('/',(request, response) => {
 });
 
 
-app.get('/resume', (req, res) => {
-    res.sendFile(path.join(__dirname, "resume.pdf"));
+app.get('/resume', async (request, response) => {
+    response.download(path.join(__dirname, "resume/resume.pdf"));
 });
 
 
