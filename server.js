@@ -12,7 +12,7 @@ app.get('/',(request, response) => {
 
 
 app.get('/resume', (req, res) => {
-    res.download(path.join(__dirname, "resume.pdf"));
+    res.sendFile(path.join(__dirname, "resume.pdf"));
 });
 
 
