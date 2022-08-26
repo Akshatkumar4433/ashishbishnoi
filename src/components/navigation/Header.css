@@ -1,0 +1,14 @@
+.nav-area {
+     display: flex;
+     gap: 200px;
+     border-bottom: 1px solid white;
+}
+
+.logo {
+    width: 90%;
+    text-align: left;
+    font-size: 1.5em;
+    font-family: 'Anton';
+    color:#F2F2F2;
+}
+

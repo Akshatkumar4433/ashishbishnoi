@@ -1,0 +1,26 @@
+
+
+a {
+    text-decoration: none;
+}
+
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+.box {
+    width: 100%;
+    text-align: center;
+   
+    border-bottom: 1px solid white;
+}
+
+.navigation-item-text {
+    font-family: 'Anton';
+    font-size: 1.2em;
+    text-align: center;
+    color:#bee600;
+}
