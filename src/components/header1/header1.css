@@ -36,3 +36,12 @@ h1 {
     animation-direction: alternate;
 
 }
+
+.summary-list {
+    color: white;
+}
+
+.summary-list li {
+    list-style-type:disc;
+    padding: 5px;
+}

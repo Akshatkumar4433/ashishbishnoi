@@ -10,7 +10,7 @@ export const navigationItems = [
         url:'/',
     },
     {
-        title: 'Linkden',
+        title: 'linkedln',
         logo:'',
         url:'/',
     },
