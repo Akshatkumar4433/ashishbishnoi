@@ -12,7 +12,7 @@ export const navigationItems = [
     {
         title: 'linkedln',
         logo:'',
-        url:'/',
+        url:'/https://www.linkedin.com/in/ashishkumarbishnoi',
     },
     {
         title: 'About',
