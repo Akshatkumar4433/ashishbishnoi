@@ -1,6 +1,6 @@
 import React from 'react';
-import './header1.css'
-export default class Header1 extends React.Component {
+import './Banner.css'
+export default class Banner extends React.Component {
     render() {
         return(
             <div className = 'header1'>
